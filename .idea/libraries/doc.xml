@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="doc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../zhang/cos-20.08.zip!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../zhang/cos-20.08.zip!/src" />
+    </SOURCES>
+  </library>
+</component>
